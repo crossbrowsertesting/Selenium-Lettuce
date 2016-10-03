@@ -1,4 +1,4 @@
-elenium Testing with Lettuce and Python
+Selenium Testing with Lettuce and Python
 
 **[Lettuce](http://lettuce.it/)** is a [Behavior Driver Development](https://en.wikipedia.org/wiki/Behavior-driven_development) framework that allows you to execute automated Python tests from plain-text descriptions. This allows you to write tests that even your company's business people can understand. 
 # Selenium Testing with Lettuce and Python
