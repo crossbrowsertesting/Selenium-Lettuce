@@ -123,7 +123,7 @@ def setUp():
     caps['platform'] = 'Windows 7'               # To specify a version, add caps['version'] = 'desired version'  
     caps['screen_resolution'] = '1024x768'
     caps['record_video'] = 'true'
-    caps['record_network'] = 'true'
+    caps['record_network'] = 'false'
 
     world.browser = webdriver.Remote(
         desired_capabilities = caps,
